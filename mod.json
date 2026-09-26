@@ -1,0 +1,20 @@
+{
+  "id": "kl.partytime",
+  "name": "PartyTime",
+  "version": "1.3.0",
+  "author": "KrazenLabs",
+  "description": "Play your own songs on the jukebox and slap the PARTY button next to it for PARTY TIME!",
+  "assembly": "PartyTime.dll",
+  "loaderVersion": ">=1.9.0",
+  "resources": [
+    {
+      "folder": "Songs",
+      "description": "Put your .ogg music files here!",
+      "extensions": [
+        ".ogg"
+      ],
+      "section": "Music"
+    }
+  ],
+  "url": "https://www.krazenlabs.com"
+}
